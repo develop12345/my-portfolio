@@ -46,7 +46,7 @@ const Skills = () => {
             <article className="skills__detail">
             <BsFillPatchCheckFill className='skills__detail-icon'/>
             <div>
-            <h4>React</h4>
+            <h4>Reactjs</h4>
             <small className='text-light'>Intermediate</small>
             </div>
             </article>
@@ -54,7 +54,7 @@ const Skills = () => {
             <article className="skills__detail">
             <BsFillPatchCheckFill className='skills__detail-icon'/>
             <div>
-            <h4>Html</h4>
+            <h4>Wordpress</h4>
             <small className='text-light'>Experiecned</small>
             </div>
             </article>
